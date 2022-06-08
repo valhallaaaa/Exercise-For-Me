@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to mine Vue.js App"/>
     <span>1</span>
     <span>2</span>
+    <span>2</span>
   </div>
 </template>
 
