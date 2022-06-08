@@ -1,11 +1,8 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to mine Vue.js App"/>
-    <HelloWorld msg="Welcome to mine Vue.js App"/>
+    <span>1</span>
   </div>
 </template>
 
